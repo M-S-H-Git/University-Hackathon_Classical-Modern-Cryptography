@@ -95,7 +95,7 @@ These scripts are designed for learning and experimentation. They intentionally 
 
 ## Report
 
-The complete assignment solutions, manual calculations, security analysis, diagrams, and references are available in [University Hackathon_Classical & Modern Cryptography_Report.pdf](University%20Hackathon_Classical%20%26%20Modern%20Cryptography_Report.pdf).
+The complete solutions, manual calculations, security analysis, diagrams, and references are available in [University Hackathon_Classical & Modern Cryptography_Report.pdf](University%20Hackathon_Classical%20%26%20Modern%20Cryptography_Report.pdf).
 
 ## Author
 
