@@ -100,4 +100,5 @@ The complete assignment solutions, manual calculations, security analysis, diagr
 ## Author
 
 Muhammed Salah Hussain  
-GitHub: [M-S-H-Git](https://github.com/M-S-H-Git)
+GitHub: [M-S-H-Git](https://github.com/M-S-H-Git)  
+LinkedIn: [Muhammed Salah Hussain](https://linkedin.com/in/muhammed-salah-hussain-231797388)
