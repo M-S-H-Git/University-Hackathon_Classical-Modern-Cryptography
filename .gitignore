@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.metadata.json
+.venv/
+venv/
+.idea/
+.vscode/
